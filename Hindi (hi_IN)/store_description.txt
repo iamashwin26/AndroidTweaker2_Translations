@@ -1,47 +1,47 @@
 ** FOR ANY PROBLEM: SEND US AN EMAIL! WE WILL ALWAYS REPLY! **
 
-We are pleased to introduce Android Tweaker 2, the second chapter of the utility that had a great success in the Android community. Rising the performance of your device has never been so easy! With a clean and user friendly interface and a little preference to enable and hide the advanced user contents!
+हम एंड्रॉयड Tweaker 2 , एंड्रॉयड समुदाय में एक बड़ी सफलता मिली है कि उपयोगिता का दूसरा अध्याय शुरू करने खुश हैं . अपने डिवाइस का प्रदर्शन गिरता इतना आसान कभी नहीं रही है ! एक स्वच्छ और उपयोगकर्ता के अनुकूल इंटरफेस और उन्नत उपयोगकर्ता सामग्री सक्षम और छुपाने के लिए एक छोटे से वरीयता के साथ !
 
-Translations: you can find instructions on how to translate the app on the official github project (https://github.com/iGio90/AndroidTweaker2_Translations/). Translators have the right to requests a full unlocked version of the app. 
+अनुवाद : आप सरकारी GitHub परियोजना ( https://github.com/iGio90/AndroidTweaker2_Translations/ ) पर app अनुवाद करने के लिए कैसे पर निर्देश प्राप्त कर सकते हैं . अनुवादक अनुरोध करने के लिए सही अनुप्रयोग के एक पूर्ण संस्करण खुला है .
 
-Stay tuned with our recent news and announcements through our official website: 
+हमारे आधिकारिक वेबसाइट के माध्यम से हमारे हाल के समाचार और घोषणाओं के साथ देखते रहो :
 http://bam-android.com
 
-Also, feel free to join our community to get support and get access to the latest beta and new upcoming features:
+इसके अलावा , समर्थन पाने के लिए और नवीनतम बीटा और नए आगामी सुविधाओं तक पहुँच पाने के लिए हमारे समुदाय में शामिल होने के लिए स्वतंत्र महसूस :
 https://plus.google.com/communities/107522763082295690993
 
-So many changes from the previous version:
-- A whole new layout in pure Google card style
-- Functional and practice. Everything at your touch.
-- New tweak, so many new tools and utilities that will allow you to achieve amazing results on your device
-- A new shop inside where you can buy many addons and plugins.
-- Compatible with Android 4.4 KitKat
+पिछले संस्करण से कई परिवर्तन :
+- शुद्ध गूगल कार्ड शैली में एक नया लेआउट
+- कार्यात्मक और अभ्यास . आपके स्पर्श में सब कुछ .
+- आप अपने डिवाइस पर आश्चर्यजनक परिणाम प्राप्त करने की अनुमति देगा कि नई tweak , इतने सारे नए उपकरणों और उपयोगिताओं
+- आप कई addons और प्लगइन्स खरीद सकते हैं , जहां के अंदर एक नई दुकान .
+- एंड्रॉयड 4.4 KitKat साथ संगत
 
-The new tweaks and tools:
-- We gave a more clean graphical interface and greater ease of use to all the various tweaks and tools inside.
-- Cache cleaner, Dalvik cleaner, uninstaller and Root Zipaligner
-- Many new tweaks to increase performance, battery, network, media (photos, videos and autio) and much more!
-- OTA tweaker for easy tweak your device back at every nightly/OTA update of your custom ROM
-- Tasker profiles switcher
-- Init.d scripts
-- DNS Manager
-- Density modder (DPI)
-- Benchmarks for IO, CPU, Network speed and general hardware
-- App manager that allows you to backup your data/apk for each application, uninstaller, freeze/unfreeze and schedule backups!
-- Bravia Engine v3 installer
-- Bootanimation installer
-- Quick flasher to flash your zip files with your custom recovery with a single tap!
-- First app with OOM and caching tweaks
-- Custom launchers for every tools
+नए tweaks और उपकरण:
+- हम सभी विभिन्न tweaks और अंदर उपकरणों के लिए एक अधिक स्वच्छ चित्रमय इंटरफेस और उपयोग में अधिक से अधिक आराम दे दी है.
+- कैश क्लीनर , Dalvik क्लीनर , uninstaller और जड़ Zipaligner
+- कई नए tweaks के प्रदर्शन को बढ़ाने के लिए , बैटरी , नेटवर्क , मीडिया ( फ़ोटो, वीडियो और autio ) और भी बहुत कुछ!
+- ओटीए अपने कस्टम ROM के लिए आसान वापस अपने डिवाइस tweak पर हर रात / ओटा अद्यतन के लिए Tweaker
+- Tasker स्विचर प्रोफाइल
+- Init.d लिपियों
+- DNS प्रबंधक
+- घनत्व modder (डीपीआई)
+- कब के लिए मानक , सीपीयू , नेटवर्क की गति और सामान्य हार्डवेयर
+- प्रत्येक आवेदन के लिए बैकअप अपने डेटा / APK आपको अनुमति देता है कि अनुप्रयोग प्रबंधक , uninstaller , फ्रीज / नरम कर देना और अनुसूची बैकअप !
+- ब्राविया इंजन V3 इंस्टॉलर
+- Bootanimation इंस्टॉलर
+- एक ही नल के साथ अपने कस्टम वसूली के साथ अपने ज़िप फ़ाइलें फ्लैश करने के लिए त्वरित Flasher !
+- OOM और कैशिंग tweaks के साथ पहली app
+- हर उपकरण के लिए कस्टम लांचर
 
-Addons (Shop):
-- Smart actions: customize the behavior of your device when it goes in sleep mode and back on! Rise your battery life up to 300%! Includes a widget and an optional notification bar!
-- Font manager: customize your system font with an easy one tap font installer with previews!
-- Notification weather: allows you to create a notification that will display weather informations based on your gps location or a custom one. This notification is highly customizable with colors and preferences!
-- Floating gestures: allows you to create custom gestures and assign an action to them. The floating icon will open the gestures pad in which you can draw your custom gestures
-- Data backup that allows you to backup and restore your personal data such as call logs, sms, bookmarks and more..
-- Unity bars: an ubuntu unity like launcher bars with customizable colors and options
-- Exposè: create Mac OSX like exposé. Add customized actions to screen corners!
-- The chamber of secrets: Allows you to store secure data inside the app such as pictures, videos, music, audio, documents, notes, bookmarks, phone numbers and more!
+Addons ( दुकान ) :
+- स्मार्ट क्रिया: यह पीठ पर स्लीप मोड में चला जाता है और जब आपके डिवाइस के व्यवहार को अनुकूलित ! 300 % करने के लिए अपनी बैटरी जीवन उठ ! एक विजेट और एक वैकल्पिक अधिसूचना पट्टी भी शामिल है!
+- फ़ॉन्ट प्रबंधक : पूर्वावलोकन के साथ एक आसान एक नल फ़ॉन्ट इंस्टॉलर के साथ अपने सिस्टम फ़ॉन्ट अनुकूलित !
+- अधिसूचना मौसम : आप अपने जीपीएस स्थान या एक कस्टम एक के आधार पर मौसम informations प्रदर्शित करेगा कि एक अधिसूचना बनाने के लिए अनुमति देता है. इस अधिसूचना रंग और वरीयताओं के साथ उच्च अनुकूलन है !
+- इशारों फ्लोटिंग : आप कस्टम इशारों बना सकते हैं और उन्हें एक कार्रवाई आवंटित करने के लिए अनुमति देता है. चल आइकन आप अपने कस्टम इशारों आकर्षित कर सकते हैं , जिसमें इशारों पैड खुलेगा
+- बैकअप और इस तरह के कॉल लॉग्स , एसएमएस , बुकमार्क्स और अधिक के रूप में अपने व्यक्तिगत डेटा को पुनर्स्थापित करने के लिए आप की अनुमति देता है कि डेटा बैकअप ..
+- एकता सलाखों : अनुकूलन रंग और विकल्पों के साथ लांचर सलाखों की तरह एक Ubuntu एकता
+- पर्दाफाश : बेनकाब जैसे मैक OSX बना . कोनों स्क्रीन के लिए अनुकूलित कार्यों जोड़ें!
+- चैंबर ऑफ सीक्रेट्स : आप इस तरह के चित्रों के रूप में बॉक्स के अंदर सुरक्षित डेटा स्टोर करने की अनुमति देता है , वीडियो, संगीत , ऑडियो , दस्तावेजों , नोट्स , बुकमार्क्स, फोन नंबर और अधिक !
 
-Compatible with all stock and custom ROMs such as CyanogenMod, BAM, ParanoidAndroid, AOKP, Carbon, Slim, PAC, Samsung and HTC!
+ऐसे CyanogenMod , बेम, ParanoidAndroid , AOKP , कार्बन , स्लिम , पीएसी , सैमसंग और एचटीसी के रूप में सभी स्टॉक और कस्टम रोम के साथ संगत !
