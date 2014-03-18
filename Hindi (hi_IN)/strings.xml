@@ -88,13 +88,13 @@
     <string name="tips_tasker">यह addon आप इस तरह के 2 अतिरिक्त प्रोफाइल, विजेट और अधिसूचना स्विचर रूप Tasker adittion अनलॉक की अनुमति देता है!</string>
 
     <!-- HOME -->
-    <string name="unlicensed">Please, buy a legit copy of this app. Developers put dedication and time on creating applications like that. You should support our work!!</string>
+    <string name="unlicensed">इस app की एक कानूनी कॉपी खरीदने के लिए धन्यवाद. डेवलपर्स की तरह है कि आवेदन पत्र बनाने पर समर्पण और समय लगा. आप हमारे काम का समर्थन करना चाहिए!</string>
     <string name="root_check">Root status: </string>
     <string name="rooted">Rooted</string>
     <string name="unrooted">Not rooted</string>
-    <string name="busybox_check">Busybox status: </string>
-    <string name="mount_check">Mount status: </string>
-    <string name="android_version">Android version: </string>
+    <string name="busybox_check">Busybox स्थति: </string>
+    <string name="mount_check">Mount स्थति: </string>
+    <string name="android_version">Android स्थति: </string>
     <string name="device_brand">Brand: </string>
     <string name="device_model">Model: </string>
     <string name="device_board">Board: </string>
@@ -106,29 +106,29 @@
     <string name="initd_summary">Init.d स्क्रिप्ट का संग्रह.</string>
     <string name="appmanager">App प्रबंधक</string>
     <string name="appmanager_summary">अनुप्रयोग डेटा बैकअप, uninstaller और संबल</string>
-    <string name="tools">Tools</string>
-    <string name="tools_summary">Collection of cleaners and utilities</string>
-    <string name="dns_manager">DNS manager</string>
-    <string name="dns_manager_summary">Set custom DNS or enable the ones proposed</string>
-    <string name="customization">Customizations</string>
-    <string name="customization_summary">Customize your Android OS</string>
-    <string name="changelog">Changelog</string>
-    <string name="changelog_summary">Detailed release notes</string>
-    <string name="no_root">This app require root access in order to works. Tap here to get root access on your device</string>
-    <string name="tweaker_store">Shop</string>
-    <string name="tweaker_store_summary">Purchase additional items for Android Tweaker 2</string>
+    <string name="tools">उपकरण</string>
+    <string name="tools_summary">क्लीनर और उपयोगिताओं का संग्रह</string>
+    <string name="dns_manager">DNS संपादक</string>
+    <string name="dns_manager_summary">कस्टम DNS सेट या प्रस्तावित वाले सक्षम</string>
+    <string name="customization">अनुकूलन</string>
+    <string name="customization_summary">अपने Android OS के अनुकूलित</string>
+    <string name="changelog">चेंजलॉग</string>
+    <string name="changelog_summary">विस्तृत रिलीज नोट्स</string>
+    <string name="no_root">इस app निर्माण के क्रम में रूट का उपयोग की आवश्यकता होती है. अपने डिवाइस पर रूट का उपयोग पाने के लिए यहां टैप</string>
+    <string name="tweaker_store">दुकान</string>
+    <string name="tweaker_store_summary">Android  Tweaker 2 के लिए अतिरिक्त वस्तुओं की खरीद</string>
 
     <!-- CONTACT -->
-    <string name="contact_subject">Subject:</string>
+    <string name="contact_subject">विषय:</string>
 
     <!-- TWEAKER HEADERS -->
     <string name="title_general_performance">Performance</string>
-    <string name="title_general_performance_summary">Collection of tweaks that will increase the performances on your device</string>
-    <string name="title_ui_performance">UI Performance and scrolling</string>
-    <string name="title_battery">Battery</string>
-    <string name="title_battery_summary">Collection of tweaks that will extend the battery life of your device</string>
-    <string name="title_media">Media</string>
-    <string name="title_media_summary">Collection of tweaks that will tune images, videos and audio properties</string>
+    <string name="title_general_performance_summary">Cअपने डिवाइस पर प्रदर्शन को बढ़ाने के लिए tweaks के संग्रह</string>
+    <string name="title_ui_performance">यूआई प्रदर्शन और स्क्रॉल</string>
+    <string name="title_battery">बैटरी</string>
+    <string name="title_battery_summary">आपके डिवाइस की बैटरी जीवन का विस्तार कि tweaks के संग्रह</string>
+    <string name="title_media">मीडिया</string>
+    <string name="title_media_summary">images, videos और ऑडियो गुणों में वृद्धि होगी कि tweaks के संग्रह </string>
     <string name="title_audio_video_recording">Audio and Video recording</string>
     <string name="title_streaming">Video streaming</string>
     <string name="title_audio">Audio</string>
